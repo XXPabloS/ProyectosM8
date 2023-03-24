@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Calculadora_Pt1_PabloSanjose</string>
+    <string name="btsum" translatable="false">+</string>
+    <string name="btres" translatable="false">-</string>
+    <string name="btmult" translatable="false">x</string>
+    <string name="btdiv" translatable="false">/</string>
+    <string name="btig" translatable="false">=</string>
+    <string name="textoprimernum">Operation:</string>
+    <string name="textoresultado">Answer:</string>
+</resources>

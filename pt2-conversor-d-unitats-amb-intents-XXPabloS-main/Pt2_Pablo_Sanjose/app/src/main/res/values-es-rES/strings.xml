@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de Unidades PabloSanjose</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="longitud">Longitud</string>
+    <string name="masa">Peso</string>
+    <string name="escriuNum">Escribe un número</string>
+    <string name="convert">Convertir de</string>
+    <string name="to">A</string>
+    <string name="convertBtn">Convertir</string>
+</resources>

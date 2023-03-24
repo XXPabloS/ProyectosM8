@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nom">Nombre y Apellido</string>
+    <string name="races">Razas</string>
+    <string name="notificacion">Notificacion</string>
+    <string name="pelicula_preferida">Pelicula Favorita</string>
+    <string name="Resum">Resumen</string>
+    <string name="setting">Opciones</string>
+</resources>

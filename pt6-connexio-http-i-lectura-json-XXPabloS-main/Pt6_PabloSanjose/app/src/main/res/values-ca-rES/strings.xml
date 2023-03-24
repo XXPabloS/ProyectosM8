@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nom</string>
+    <string name="key">Clau</string>
+    <string name="code">Codi</string>
+    <string name="estadiStr">Estadi</string>
+    <string name="fundacioStr">Fundació</string>
+</resources>

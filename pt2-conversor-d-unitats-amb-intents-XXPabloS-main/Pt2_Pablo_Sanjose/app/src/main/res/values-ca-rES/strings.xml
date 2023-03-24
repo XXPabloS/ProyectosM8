@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor D\'Unitats PabloSanjose</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="longitud">Longitut</string>
+    <string name="masa">Pes</string>
+    <string name="escriuNum">Escriu un numero</string>
+    <string name="convert">Converteix de</string>
+    <string name="to">A</string>
+    <string name="convertBtn">Convertir</string>
+</resources>

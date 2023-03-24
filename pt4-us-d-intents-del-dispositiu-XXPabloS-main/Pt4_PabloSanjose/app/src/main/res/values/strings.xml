@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pt4_PabloSanjose</string>
+    <string name="BotonAlarma">Create Alarm</string>
+    <string name="BotonMapas">Show Maps</string>
+    <string name="TextoMinutos">Introduce Minutes:</string>
+    <string name="TextoHoras">Introduce Hour:</string>
+</resources>

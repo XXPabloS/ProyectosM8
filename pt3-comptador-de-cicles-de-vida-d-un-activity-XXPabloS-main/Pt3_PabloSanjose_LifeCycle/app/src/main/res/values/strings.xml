@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Pt3_PabloSanjose_LifeCycle</string>
+    <string name="TVtitulo">PT3 Life Cycle PabloSanjose</string>
+    <string name="TVcrear">onCreate</string>
+    <string name="TViniciar">onStart</string>
+    <string name="TVreiniciar">onRestart</string>
+    <string name="TVresumir">onResume</string>
+    <string name="TVpausar">onPause</string>
+    <string name="TVdetener">onStop</string>
+    <string name="TVdestruir">onDestroy</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:defaultValue="Default value"
+        android:key="nom"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/Nom" />
+    <SwitchPreference
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:defaultValue="false"
+        android:key="not"
+        android:title="@string/notificacion" />
+    <MultiSelectListPreference
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:defaultValue="@array/races"
+        android:entries="@array/races"
+        android:entryValues="@array/races"
+        android:key="races"
+        android:title="@string/races" />
+    <ListPreference
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:defaultValue="1"
+        android:entries="@array/films"
+        android:entryValues="@array/films"
+        android:key="pelis"
+        android:title="@string/pelicula_preferida" />
+</PreferenceScreen>

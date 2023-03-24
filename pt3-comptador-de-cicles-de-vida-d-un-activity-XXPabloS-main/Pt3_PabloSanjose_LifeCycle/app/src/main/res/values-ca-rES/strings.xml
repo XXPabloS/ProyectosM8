@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TVtitulo">PT3 Cicles de Vida PabloSanjose</string>
+    <string name="TVcrear">Crear</string>
+    <string name="TViniciar">Començar</string>
+    <string name="TVreiniciar">Reiniciar</string>
+    <string name="TVresumir">Resumir</string>
+    <string name="TVpausar">Pausar</string>
+    <string name="TVdetener">Parar</string>
+    <string name="TVdestruir">Destruir</string>
+</resources>

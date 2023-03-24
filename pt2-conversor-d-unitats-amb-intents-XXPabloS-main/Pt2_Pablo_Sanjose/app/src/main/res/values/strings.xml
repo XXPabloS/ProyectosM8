@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Converter PabloSanjose</string>
+    <string name="temperatura">Temperature</string>
+    <string name="longitud">Length</string>
+    <string name="masa">Mass</string>
+    <string name="escriuNum">Write a number</string>
+    <string name="convert">Convert from</string>
+    <string name="to">To</string>
+    <string name="convertBtn">Convert</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UF2_Pt1_PabloSanjose</string>
+    <string name="nom">Nombre: </string>
+    <string name="cognom">Apellido: </string>
+    <string name="telefon">Teléfono: </string>
+    <string name="marca">Marca: </string>
+    <string name="model">Modelo: </string>
+    <string name="matricula">Matricula: </string>
+    <string name="insert">Añadir</string>
+    <string name="modify">Modificar</string>
+    <string name="search">Buscar</string>
+    <string name="show">Mostrar</string>
+    <string name="si">Si</string>
+    <string name="no">No </string>
+    <string name="borrar">Seguro que quieres borrarlo?</string>
+</resources>

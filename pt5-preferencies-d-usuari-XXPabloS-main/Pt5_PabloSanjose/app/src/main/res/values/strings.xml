@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">Pt5_PabloSanjose</string>
+    <string name="Nom">Name and surname</string>
+    <string name="races">Races</string>
+    <string name="notificacion">Notification</string>
+    <string name="pelicula_preferida">Favourite Film</string>
+
+    <array name="races">
+        <item>Ewok</item>
+        <item>Gen\'Dai</item>
+        <item>Genosia</item>
+        <item>Gorax</item>
+        <item>Gungan</item>
+        <item>Hutt</item>
+        <item>Jawa</item>
+        <item>Kel Tor</item>
+        <item>Mandalorians</item>
+        <item>Massif</item>
+        <item>Mon Calamari</item>
+        <item>Morador de les sorres</item>
+        <item>Neimoidians</item>
+        <item>Porg</item>
+        <item>Quarren</item>
+        <item>Rakatan</item>
+        <item>Rancor</item>
+        <item>Teek</item>
+        <item>Sarlacc</item>
+        <item>Tauntaun</item>
+        <item>Ugnaught</item>
+        <item>Wampa</item>
+        <item>Weequay</item>
+        <item>Wookiee</item>
+        <item>Yuuzhan vong</item>
+        <item>Yuzzum</item>
+        <item>Zabrak</item>
+    </array>
+    <array name="films">
+        <item>El Imperio Contrataca</item>
+        <item>La Venganza de los Sith</item>
+        <item>El Despertar de la Fuerza</item>
+        <item>La Amenaza Fantasma</item>
+        <item>El Ataque de los Clones</item>
+        <item>El Retorno del Jedi</item>
+        <item>Una Nueva Esperanza</item>
+        <item>Rogue One</item>
+        <item>El ascenso de Skywalker</item>
+    </array>
+    <string name="Resum">Summary</string>
+    <string name="setting">Settings</string>
+</resources>

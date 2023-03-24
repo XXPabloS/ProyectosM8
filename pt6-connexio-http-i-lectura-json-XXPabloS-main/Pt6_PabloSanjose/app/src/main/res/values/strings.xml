@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Pt6_PabloSanjose</string>
+    <string name="name">Name</string>
+    <string name="key">Key</string>
+    <string name="code">Code</string>
+    <string name="estadiStr">Stadium</string>
+    <string name="fundacioStr">Foundation</string>
+</resources>
