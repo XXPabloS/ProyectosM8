@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255190971943",
+    "project_id": "uf2pt2pablosanjose",
+    "storage_bucket": "uf2pt2pablosanjose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255190971943:android:2f0499e73ae37036cb8002",
+        "android_client_info": {
+          "package_name": "com.example.uf2_pt2_pablosanjose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255190971943-d8g8c44ni8dtt6imbkj4nv5g0t3s9e3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSSAlFNjiyGEbiPSIVBbgvkpK-aUAHtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255190971943-d8g8c44ni8dtt6imbkj4nv5g0t3s9e3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

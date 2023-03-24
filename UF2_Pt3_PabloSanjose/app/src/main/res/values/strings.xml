@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UF2_Pt3_PabloSanjose</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude">Latitud...</string>
+    <string name="longitude">Longitud...</string>
+    <string name="go">Ves-hi!</string>
+    <string name="go_to">Anar a...</string>
+    <string name="location">Població...</string>
+    <string name="google_maps_key">AIzaSyA3cEabYk7KeK7NwM1kvk1mQjoGokiGiEs</string>
+</resources>

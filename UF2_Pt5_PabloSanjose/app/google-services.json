@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312803312906",
+    "project_id": "admobpt5",
+    "storage_bucket": "admobpt5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312803312906:android:38231dc0fbd60fb296a6f3",
+        "android_client_info": {
+          "package_name": "com.example.uf2_pt5_pablosanjose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312803312906-edvio5g1517p783ckvd358juu0lbh9iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXXZa_ILMlzcbFjiKiWqv2Vt6dbNlIjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312803312906-edvio5g1517p783ckvd358juu0lbh9iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

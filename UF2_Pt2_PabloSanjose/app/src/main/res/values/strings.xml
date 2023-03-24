@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UF2_Pt2_PabloSanjose</string>
+    <string name="nom">Nom:</string>
+    <string name="adress">Companyia: </string>
+    <string name="insert">Afegir</string>
+    <string name="show">Mostrar</string>
+    <string name="modifica">Modificar</string>
+    <string name="elimina">Eliminar </string>
+    <string name="opcions">Modifica o elimina el registre</string>
+    <string name="cognom">Cognom:</string>
+    <string name="marca">Marca:</string>
+    <string name="model">Model:</string>
+    <string name="matricula">Matricula:</string>
+    <string name="telefon">Telefon:</string>
+    <string name="modificar">Modificar</string>
+    <string name="sortir">Sortir</string>
+    <string name="consultar_matricula">Consultar Matricula</string>
+    <string name="propietari">Propietari del vehicle</string>
+</resources>
