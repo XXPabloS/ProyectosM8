@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stocks_Template</string>
+    <string name="google_maps_key"></string>
+    <string name="insert">Afegir</string>
+    <string name="show">Mostrar</string>
+    <string name="modifica">Eliminar / Consultar</string>
+    <string name="elimina">Eliminar </string>
+    <string name="opcions">Modifica o elimina el registre</string>
+    <string name="modificar">Modificar</string>
+    <string name="consultar_stock">Esto no va</string>
+    <string name="id">ID</string>
+    <string name="country">Country</string>
+    <string name="stock_industry">Stock Industry</string>
+    <string name="stock_market">Stock Market</string>
+    <string name="stock_market_cap">Stock Market Cap</string>
+    <string name="stock_name">Stock Name</string>
+    <string name="stock_sector">Stock Sector</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>

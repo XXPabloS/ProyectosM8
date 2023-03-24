@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mostraMapa"
+        android:title="Mostrar Mapa" />
+    <item
+        android:id="@+id/insereixStock"
+        android:title="Inserir Stock" />
+    <item
+        android:id="@+id/editaStock"
+        android:title="Editar Stock" />
+     <item
+        android:id="@+id/esborraStock"
+        android:title="Esborrar Stock" />
+</menu>

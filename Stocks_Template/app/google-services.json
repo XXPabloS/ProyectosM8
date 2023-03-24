@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289241651948",
+    "firebase_url": "https://pablo-sanjose-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pablo-sanjose",
+    "storage_bucket": "pablo-sanjose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289241651948:android:80dfbe8325ac2b01b3e3c9",
+        "android_client_info": {
+          "package_name": "net.vib.dam.stocks_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289241651948-do000i20gh8cp4r8polpm9kg8a8f12qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JycVynTA0W3Lk8QBVfEfqALWSmxsIJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289241651948-do000i20gh8cp4r8polpm9kg8a8f12qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
